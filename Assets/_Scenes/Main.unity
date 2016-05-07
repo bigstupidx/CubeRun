@@ -286,6 +286,26 @@ Prefab:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 169720, guid: f40ea3fdcd189462cb52c4f81e4aa99d, type: 2}
+      propertyPath: m_Name
+      value: Walls
+      objectReference: {fileID: 0}
+    - target: {fileID: 116710, guid: f40ea3fdcd189462cb52c4f81e4aa99d, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 124516, guid: f40ea3fdcd189462cb52c4f81e4aa99d, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 182150, guid: f40ea3fdcd189462cb52c4f81e4aa99d, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 119492, guid: f40ea3fdcd189462cb52c4f81e4aa99d, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f40ea3fdcd189462cb52c4f81e4aa99d, type: 2}
   m_IsPrefabParent: 0
